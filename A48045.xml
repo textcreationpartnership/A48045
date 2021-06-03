@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from an Independent to his honoured friend, a Presbyterian in London</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48045</idno><idno type="EEBO-CITATION">9566554</idno>
+  <idno type="VID">43631</idno>
+  <idno type="EEBO-PROQUEST">2264195377</idno>
+  
+            <idno type="STC">Wing L1447</idno>
+            <idno type="STC">ESTC R26841</idno>
+            <idno type="OCLC">09566554</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from an Independent to his honoured friend, a Presbyterian in London</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England.</term>
+               <term type="topical_term">Liberty of conscience --  England.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:43631:1"/>
+            <pb n="1" facs="tcp:43631:1"/>
+            <head>A LETTER FROM AN INDEPENDENT, To his Honoured Friend A PRESBYTERIAN IN <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WIth what Sympathy and Unanimity we first engaged our selves in this present Cause, I need not call to your remembrance: nor can you forget what lists and bounds wee then set our selves: Reformation was our earnest desire. Petition was our only way; To live and dye together in one and the same opi<g ref="char:EOLhyphen"/>nion was our mutuall promise; To preserve our Antient and Fundamentall Lawes, to purchase our just Liberties, To conserve the Kings known Rights, were our solemne Pro<g ref="char:EOLhyphen"/>testations. All these being now like <hi>Sampsons</hi> cords, broken, I believe my selfe disengaged: The Reformation desired is ex<g ref="char:EOLhyphen"/>tirpation endeavoured; In stead of Petition, as Subjects ought, we command as Rebels use; The preservation of our Ancient and Fundamentall Lawes, is out-lawed by new Votes, and illegall Ordinances; The purchase of our just Liberties, is
+<pb n="2" facs="tcp:43631:2"/>turn'd into unjust licentiousnesse; And the conservation of the Kings known Rights, is overturn'd by unknown wrongs; And our living and dying in one and the same Opinion, is crumbled away into <hi>So many men, so many minds;</hi> of our first <hi>Juncto,</hi> how many <hi>Bresbyterians,</hi> how many <hi>Independents</hi> we both know; of those <hi>Presbyterians,</hi> how many are <hi>Anabaptists,</hi> how many <hi>Jacobins</hi> you know not; of those <hi>Independents,</hi> how many are <hi>Antinomians,</hi> how many are <hi>Brownists,</hi> I know not: And though we both know what we would not have, yet neither of us know what we would have.</p>
+            <p>Would we have no Bishops Sit in Parliament? an Act is passed for it, the King hath signed it. Though I must tell you, that very Acthath cancelled one of our best Fundamentalls; The best part of <hi>Magna Charta</hi> is thereby dissolved, and hath put the whole into an Ague.</p>
+            <p>Would we have no imposition of Ship-money? the like course is taken, and the like power hath confirmed it. Though I must tell you, this very ease of Ship-money, hath brought a disease upon our Ship strength; and whereas before wee were well nigh able to cope with all the Navies of Christendome, wee have scarce any more left now then the bare name of a Navie.</p>
+            <p>Would we have no Monopolies? They are damn'd too by the like Authority; though I must tell you, the very taking away of this yoak hath made the whole Kingdome a Monopoly; the severall Committees have got a Monopoly of our Coyne and all that is Coynable; The severall Commanders have got a Mono<g ref="char:EOLhyphen"/>poly of our Cattell, and all that is Edible; some there be that have got a Monopoly of our Wives, and all that is Amiable; others of our Children, and all that is Delectable; others of our Servants, and all that is Profitable; others of our Neighbours, and all that is Sociable.</p>
+            <p>Would we have no Ceremonies lie heavie upon render Con<g ref="char:EOLhyphen"/>sciences? That hath been offered us too; Though I must tell you, we that stumbled at these Gnats, have since swallowed Camels; we that would not be imposed upon our selves, doe our selves impose upon others, Burthens too heavie for them, our selves, or any man else to beare.</p>
+            <pb n="3" facs="tcp:43631:2"/>
+            <p> Would we have no Papists? wee were in a faire way for that too; we might have forc'd their children to an education under Protestants: Though I must tell you, <hi>but under the Rose be it spoken,</hi> This had been a piece of absolute Tyranny; and would have been requited with the Abolition of all Protestants in all the World, save <hi>England.</hi>
+            </p>
+            <p>What is it we did privatively desire, and the King did po<g ref="char:EOLhyphen"/>sitively deny? He was not weary of Granting, 'till we were shamelesse and unreasonable in demanding. To a Regulation of Bishops He consented; He declined only their Extirpation; would we have no Bishops? Why? because they have not <hi>Jus divinum</hi> to plead for them? it remaines yet undecided; the E<g ref="char:EOLhyphen"/>piscoparians affirm it; The Anti-Episcoparians deny it; and yet grant by consequence, what they challenge by conclusion. That Episcopacy hath <hi>Jus Apostolicum</hi> for their Advocate. Or is it because some of them are bad? Upon the same ground would we have no Judges, no Aldermen, no Knights, no Lords, no Parliaments; All have not been good: because some are, let their prescription of time forbid the proscription of their Function.</p>
+            <p>Mistake me not yet, Sir, I am no Patron, no Advocate, no Pleader for Episcopacy; I am an <hi>Independent,</hi> I was so when I first entred into this combination, and so will die; And such a one were you at that time, though now you have forgot your first Faith, and are turn'd <hi>Presbyterian;</hi> yet still I am, as I was then, a perfect Bishop-hater; but why I am so, I know no more then you doe. Herein we still both agree; In all things else we are at oddes: you will have Presbytery established; I am for In<g ref="char:EOLhyphen"/>dependency; And which of these two are most consistent with the essence of this Kingdome, I wish you would put it to the Issue upon a faire and calm disputation betwixt my good Lord <hi>Say,</hi> who well knowes what the new Directory is, and how to confute it; and your good Earle of <hi>Pembrook,</hi> who for three Months (his own words) could not understand it, but now by the help of Mr <hi>Olsworth</hi> (it seemes) knowes it to be the best Nursery of Devotion in the World, and yet neither un<g ref="char:EOLhyphen"/>derstands nor knowes how to maintain it: or betwixt out
+<pb n="4" facs="tcp:43631:3"/>Learned Mr <hi>Goodwin,</hi> and your learned Mr <hi>Calamy,</hi> who yet never answered that Quotation of his, from the best Astrono<g ref="char:EOLhyphen"/>mers that ever writ, in the yeare 1640. <hi>plue vel minus,</hi> there would be <hi>universalis totius Mundi insania,</hi> to which I should have pinn'd my Faith, if he had but added the whole Truth, saying with <hi>Tycho-Brahe, Erga Reges:</hi> so the words stand, and ought not otherwise to be repeated: or by determination of the Sword, betwixt <hi>Noble Cromwell, our Generall,</hi> and <hi>vali<g ref="char:EOLhyphen"/>ant Massey, yours.</hi>
+            </p>
+            <p>But Disputations we have had already, to no purpose, you will confesse with me; For the Episcoparians are the better Scholars, and have confuted us both; you for too heavie Task<g ref="char:EOLhyphen"/>masters, and us for too easie: And justly; For your Assembly with the power of your Party in the Parliament, have impo<g ref="char:EOLhyphen"/>sed Oaths and Covenants contrary to Law and Religion; yes, and imprisoned <hi>Lilborn</hi> for his defence of <hi>Magna Charta,</hi> and refusing the new Oath, <hi>Ex Officio,</hi> which your selves condem<g ref="char:EOLhyphen"/>ned in the Ecclesiasticall Court: Nay, and beyond this too, di<g ref="char:EOLhyphen"/>vers of your Assembly of Divines, have in their Feast-meet<g ref="char:EOLhyphen"/>ings declared, That their Presbytery being <hi>Jure divino,</hi> hath a Supreame power in Causes both Ecclesiasticall and Civill over King and Parliament, and so instead of ruling by Law, will rule all by their own lawlasse Arbitrary Injunctions.</p>
+            <p>Battailes we have also had to as little parpose; For untill this last Summer, the Kings Souldiers were the stronger men, and gained against us both: you know in what a low Condi<g ref="char:EOLhyphen"/>tion we both were, when Sir <hi>Thomas Fairfax</hi> lay before <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> how tumultuous the <hi>Londoners</hi> were when <hi>Leycester</hi> was taken, and how we were resolved to passe over the Channell, if <hi>Nasby</hi> fight had gone against us: And to whom we owe the thankfulnesse of that, whether to Generall <hi>Fairfax,</hi> and the Presbyterians under him, or to Generall <hi>Cromwell,</hi> and the <hi>Independents</hi> under him, let our Enemies speak: Their wit<g ref="char:EOLhyphen"/>nesse will be the best, we may be partiall to our selves.</p>
+            <p>That we have since taken <hi>Bristoll,</hi> the <hi>Devizes</hi> in spight of <hi>Lloyd, Winchester</hi> notwithstanding <hi>Ogles</hi> strength there, and <hi>Bazing House,</hi> where many of our Armies were till then
+<pb n="5" facs="tcp:43631:3"/>crusht; It is well known we owe more to <hi>Cromwels</hi> Horse, then to <hi>Fairfax</hi> Foot, or <hi>Dalbeers</hi> Engines: And that <hi>Dalbeer</hi> should have 6000l for <hi>Basing, Fairfax</hi> 500l for <hi>Bristoll, Massy</hi> the like, in Iewels, which they weare as Badges of Honour, and <hi>Cromwell</hi> no acknowledgement for all; yes, and instead of it, you suffer him to lye under an impeachement of Trea<g ref="char:EOLhyphen"/>son suggested by the Earle of <hi>Manchester;</hi> is a shrew'd evidence to me, That if your Presbytery be once establisht, we must look for as little favour as the Episcoparians: And this you already partly shewed, by your selfe-charity in your great care of <hi>Skippon,</hi> to cure his wounds which he received at <hi>Nasby</hi> fight, and suffering all ours to sinck or swimme.</p>
+            <p>Well, notwithstanding all these Successes, are either of us nearer to our ends? If the King can but live and rub out this Winter, we shall save Him a labour next Spring of calling in any Forreign Forces: It is resolved upon amongst us, and for that ancient loves sake which hath been betwixt us, I give you notice of it, that you may return to us, That if the King will give us Liberty of Conscience, and not subjugate us to Ecclesiasticall Power, we will submit our selves to His Civill Power; and rather live with Episcopacy to establish Monarchy, then under Presbytery to pull it down.</p>
+            <p>Episcopacy may stand, and we enjoy our Consciences, Pres<g ref="char:EOLhyphen"/>bytery will not allow it; Episcopacy may enjoy their Lands, and we our Farms, not so with Presbytery; For they intend as well a Reformation of the State, as of the Church, <hi>i. e.</hi> of long Gownes into short Clokes, of Lawn Sleeves into fine Shirts, of <hi>Meum &amp; Tuum</hi> into <hi>Suum,</hi> of Godlinesse into Gaine; And our <hi>Copy-holds,</hi> if they once come to the question, <hi>whether</hi> they be as Antichristian as the Churches Lands, into their own Purses: It is not a Reformation they seek, but an Alteration; and that Alteration shall but make way for an Alienaton, To bring the Kings Crown under Christs Scepter, which themselves will manage, not for Christ, but against Christ; For his Kingdome is not of this world.</p>
+            <p>We <hi>Independents</hi> seek only a Reformation, not an Altera<g ref="char:EOLhyphen"/>tion; we have yet so much Reason, as to see, The further we
+<pb n="6" facs="tcp:43631:4"/>swerve from our first Constitutions, the nearer we hasten to Desolation; The further from our Fundamentall Principles, the nearer to our perpetuall Ruine. It is so in the Church, it is so in the State. I instance only in the State: The first Con<g ref="char:EOLhyphen"/>stitution, and Fundamentall Principle of this Kingdome is, There should be a King, and Subjects; That the King should Rule, the Subjects should obey: He Rule according to Law, They obey according to Conscience. That He should secure the Kingdome against Forreigne Enemies; That they should assist him therein; That both should conscientiously intend the publick Peace, and the Kingdomes happinesse: we find all this done, while we had but one King, and many Subjects; And we find all this undone, now we have many Kings, and no Subjects: To regaine all, we would come to our first Consti<g ref="char:EOLhyphen"/>tution, and live in subjection under that one whom God hath made our Superiour, and not any longer in vassalage under many, whom our selves have made.</p>
+            <p>A second or another first Constitution of this Kingdome, is, we should have Parliaments; that those Parliaments should consist of three States, Lords Spirituall, Lords Temporall, and the House of Commons; But one of these three, <hi>the Lords Spirituall</hi> being found superfluous, we say of two States, the House of Peers, and the House of Commons; The House of Commons to find out the Grievances of the Kingdome, and to prepare Redresses of those Grievances for the House of Peers, the House of Peers to present them to the King, and the King to sign them with His Royall <hi>Fiat</hi> for Lawes: All this hath been done while the House of Parliament prepared Lawes for the King to confirm them; All this hath been un<g ref="char:EOLhyphen"/>done, since the two Houses have made Lawes for the King to obey them: our Grievances were redressed before. They are encreased now; we had some Liberties then, and hope of all Liberties we could desire: we have no Liberties now, nor hope of any; we had good Lawes before, whereby we knew sinne; we have many sinnes now, yet know no Law: To re<g ref="char:EOLhyphen"/>gaine our Lawes and Liberties, we would come to our first Constitution, and have two Houses to acknowledge one King
+<pb n="7" facs="tcp:43631:4"/>above them, and not one King to acknowledge two Houses above H m.</p>
+            <p>It may be you will say, <hi>Turpe est Doctori, cùm Culpa re<g ref="char:EOLhyphen"/>darguit ipsum,</hi> why have I hitherto took part with the Parlia<g ref="char:EOLhyphen"/>ment against the King? with the Parliament, I confesse, I have, but not against the King: For when I first entred into this Compact, by Protestation, by Vow, and Covenant, is was to fetch the King up unto his Parliament, out of the hands of Evill Councellors; That was the only pretended reason for the raising of all our Armies, save the very last under Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax;</hi> He was the first Generall, that ever received Command to deny Quarter to any, even to the King himselfe: And this was not disclosed untill of late, else I had published it, and our resolution in this point sooner.</p>
+            <p>But now it is known; and yet I still side with the Parlia<g ref="char:EOLhyphen"/>ment? I confesse I doe; but not as I did before; Before I did it sincerely; now I doe it politickly; The Parliaments Cause, <hi>Rebus sic stantibus,</hi> is a <hi>good Cause to live in;</hi> For hereby I save mine own stake, and a good share in other mens; But now I am weary of it; For now I would manage such a Cause, as I might <hi>live and die in: live in with Profit, and die in with Com<g ref="char:EOLhyphen"/>fort:</hi> The course I have hitherto taken, I professe, I have un<g ref="char:EOLhyphen"/>dertaken for meere gaine; The course I would now take, I professe, I would undertake for meere Godlinesse; I would not at my Death renounce a wicked course, as Colonell <hi>Sandys</hi> did at <hi>Worcester,</hi> and Major <hi>Abercromye</hi> in <hi>Buckinghamshire;</hi> For then it would be too late, because I cannot goe to Heaven without Repentance; and Repentance cannot be true which hath not this Ingredient, <hi>Doe good,</hi> as well as that, <hi>Cease to doe Evill:</hi> I must receive the Kingdome of Heaven, <hi>The Gospel,</hi> into me, before I can hope to be received into the Kingdome of Heaven, <hi>Glory.</hi> And you know, <hi>To the Poore is the Gospel Preached;</hi> And though I am <hi>rich in substance,</hi> yet I am <hi>poore enough in spirit,</hi> I thank God for it; and would you were so too, to receive the Gospel.</p>
+            <p>Sir, by this that hath been said, you know the Resolution of our Party; There wants nothing but the Kings offer to invite
+<pb n="8" facs="tcp:43631:5"/>us, and ere long we intend to invite Him to that offer, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>That we shall be obliged only to honest Conversation by the common Lawes of this Kingdome, and freed from any, and all Ec<g ref="char:EOLhyphen"/>clesiasticall Censures for point of Religion.</hi>
+            </p>
+            <p>This is all we desire; and if this be granted, we presently declare our selves for the King, will joyn with Him, will fight for Him, and either end our lives, or settle His Crown fast upon His Head, His Sword in His Hand, and Himselfe in His Chaire.</p>
+            <p>This we will doe, maugre the opposition of all <hi>Presbyte<g ref="char:EOLhyphen"/>rians</hi> in great <hi>Brittaine,</hi> and the whole World besides: we will make our Army equall with that under <hi>Montrosse,</hi> who wee heare is already on this side <hi>Tweed,</hi> with no sewer then 14000 Foot and Horse: The like Assistance he shall have from us, under the Command of <hi>Cromwell,</hi> or whom else His Majesty will put in Chiefe. And let it be tryed then, whether any Parochiall, Consistoriall, Provinciall, or Generall Claffis of the Clero-Laicall-Presbytery, dare <hi>think to Depose,</hi> or <hi>whi<g ref="char:EOLhyphen"/>sper,</hi> to Excommunicate the King or any of his Loyall Sub<g ref="char:EOLhyphen"/>jects.</p>
+            <p>And now, Sir, if you will goe on in your Apostacy, <hi>Goe and perish:</hi> If you will return, <hi>Welcome and be safe;</hi> with them who say, GOD SAVE KING CHARLES. I leave you to your Choice; but will be glad to embrace you in the armes of,M.P</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Worships affectionate Kinsman and Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43631:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
